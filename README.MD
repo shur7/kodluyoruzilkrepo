@@ -5,9 +5,9 @@ Bu repo [Link](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum
 ![Image](https://github.com/shur7/kodluyoruzilkrepo/blob/main/img/Screenshot_1.png)
 
 # Installation
-
-```git clone https://github.com/shur7/kodluyoruzilkrepo.git```
-
+```
+git clone https://github.com/shur7/kodluyoruzilkrepo.git
+```
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
