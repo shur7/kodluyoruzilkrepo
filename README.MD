@@ -11,12 +11,10 @@ Bu repo [Link](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
+```
 cd kodluyoruzilkrepo
 code .
-
-# Contributing
-
+```
 # Licence
 
 [MIT] (https://choosealicense.com/licenses/mit/)
