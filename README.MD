@@ -6,4 +6,4 @@ Bu repo [Link](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum
 
 # Installation
 
-`git clone https://github.com/shur7/kodluyoruzilkrepo.git`
+```git clone https://github.com/shur7/kodluyoruzilkrepo.git```
